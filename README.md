@@ -1,3 +1,3 @@
-# Original Shitcoin™ Token
+# Vortex
 
-Visit https://shitcoinworld.com for more information.
+Edit this file and add information about Vortex here (website, etc.)
